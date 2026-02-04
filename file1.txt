@@ -1,3 +1,7 @@
 
 Step 1:  created by Olivia Ma on Feb 4 at 2:04 pm
+<<<<<<< HEAD
 Step 4:  line added by Olivia Ma on feb 4 at 2:18 pm
+=======
+Step 3: added by Elena on 2/4 at 2:13pm
+>>>>>>> b4e85deb25e66af99b192ebd1b1666d265db1ff6
